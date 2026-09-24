@@ -1,19 +1,19 @@
-<!-- ANIMATED HEADER -->
+<!-- HEADER -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:63080F,100:043417&height=230&section=header&text=Zeltrion%20Solutions&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Where%20strategy%20meets%20intelligence&descSize=20&descAlignY=60" alt="Zeltrion Solutions" width="100%" />
 
 <a href="https://github.com/zeltrion-solutions">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C42B36&center=true&vCenter=true&width=760&height=45&lines=AI+Agents+%26+Automation;AI-Powered+Marketing+Systems;Lead+Generation+%26+Sales+Systems;Web+Development+%26+UI%2FUX;AI+%26+Digital+Skills+Training" alt="Zeltrion services" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=C42B36&center=true&vCenter=true&width=760&height=45&lines=AI+Agents+%26+Automation;AI-Powered+Marketing+Systems;Lead+Generation+%26+Sales+Systems;Web+Development+%26+UI%2FUX;AI+%26+Digital+Skills+Training" alt="Zeltrion services" />
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="https://YOUR-WEBSITE.com"><img src="https://img.shields.io/badge/Website-Visit_Us-63080F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="https://wa.me/923294987012"><img src="https://img.shields.io/badge/WhatsApp-Chat_With_Us-043417?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-<a href="https://instagram.com/zeltrion.solutions"><img src="https://img.shields.io/badge/Instagram-zeltrion.solutions-63080F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://linkedin.com/company/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Zeltrion_Solutions-043417?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://facebook.com/YOUR-FACEBOOK"><img src="https://img.shields.io/badge/Facebook-Zeltrion_Solutions-63080F?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://YOUR-WEBSITE.com"><img src="https://img.shields.io/badge/-Website-161B22?style=for-the-badge&logo=googlechrome&logoColor=C42B36" alt="Website" /></a>
+<a href="https://wa.me/923294987012"><img src="https://img.shields.io/badge/-WhatsApp-161B22?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp" /></a>
+<a href="https://instagram.com/zeltrion.solutions"><img src="https://img.shields.io/badge/-Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+<a href="https://linkedin.com/company/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="https://facebook.com/YOUR-FACEBOOK"><img src="https://img.shields.io/badge/-Facebook-161B22?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" /></a>
 
 </div>
 
@@ -49,7 +49,7 @@ Founded and led by **Nimra Akbar**, Founder & CEO.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ZELTRION-Official_Website-63080F?style=for-the-badge" alt="Official Website" />
+<img src="https://img.shields.io/badge/-Official_Website-161B22?style=for-the-badge&logo=googlechrome&logoColor=C42B36" alt="Official Website" />
 
 The official Zeltrion Solutions website: our services, training programs and brand in one place, built with a focus on clean UI/UX and a direct path for clients to get in touch.
 
@@ -77,17 +77,19 @@ Message us on [WhatsApp](https://wa.me/923294987012) to ask about the next batch
 
 ## Technologies
 
-<!-- Edit this list so it matches what the Zeltrion tech team actually uses. -->
+<!-- Icons are official logos rendered by skillicons.dev. To add or remove one, edit the comma-separated list after "i=" (e.g. i=html,css,js). Keep this list matching what the team actually uses. -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-043417?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-63080F?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-043417?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-63080F?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/Figma-043417?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/Git-63080F?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-043417?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<sub><b>FRONTEND &amp; DESIGN</b></sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,figma&theme=dark" alt="Frontend and design technologies" />
+
+<br/><br/>
+
+<sub><b>BACKEND &amp; WORKFLOW</b></sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,git,github&theme=dark" alt="Backend and workflow technologies" />
 
 </div>
 
@@ -126,12 +128,12 @@ We are open to client projects, collaborations and partnerships with businesses,
 
 <br/>
 
-<a href="https://wa.me/923294987012"><img src="https://img.shields.io/badge/START_A_CONVERSATION-WhatsApp-043417?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Start a conversation" /></a>
-<a href="https://linkedin.com/in/YOUR-FOUNDER-LINKEDIN"><img src="https://img.shields.io/badge/CONNECT_WITH_THE_FOUNDER-LinkedIn-63080F?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with the founder" /></a>
+<a href="https://wa.me/923294987012"><img src="https://img.shields.io/badge/-Start_a_Conversation-161B22?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="Start a conversation on WhatsApp" /></a>
+<a href="https://linkedin.com/in/YOUR-FOUNDER-LINKEDIN"><img src="https://img.shields.io/badge/-Connect_with_the_Founder-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="Connect with the founder on LinkedIn" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=zeltrion-solutions&label=Profile+Views&color=63080F&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=zeltrion-solutions&label=Profile+Views&color=63080F&labelColor=161B22&style=flat-square" alt="Profile views" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:63080F,100:043417&height=120&section=footer" alt="footer" width="100%" />
 
