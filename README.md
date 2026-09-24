@@ -131,9 +131,7 @@ We are open to client projects, collaborations and partnerships with businesses,
 <a href="https://wa.me/923294987012"><img src="assets/buttons/start-conversation.svg" alt="Start a conversation on WhatsApp" height="48" /></a>&nbsp;
 <a href="https://linkedin.com/in/YOUR-FOUNDER-LINKEDIN"><img src="assets/buttons/connect-founder.svg" alt="Connect with the founder on LinkedIn" height="48" /></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=zeltrion-solutions&label=Profile+Views&color=63080F&labelColor=161B22&style=flat-square" alt="Profile views" />
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:63080F,100:043417&height=120&section=footer" alt="footer" width="100%" />
 
