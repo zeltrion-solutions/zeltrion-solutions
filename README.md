@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:63080F,100:043417&height=230&section=header&text=Zeltrion%20Solutions&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Where%20strategy%20meets%20intelligence&descSize=20&descAlignY=60" alt="Zeltrion Solutions" width="100%" />
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/zeltrion-solutions">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C42B36&center=true&vCenter=true&width=760&height=45&lines=AI+Agents+%26+Automation;AI-Powered+Marketing+Systems;Lead+Generation+%26+Sales+Systems;Web+Development+%26+UI%2FUX;AI+%26+Digital+Skills+Training" alt="Zeltrion services" />
 </a>
 
@@ -53,7 +53,7 @@ Founded and led by **Nimra Akbar**, Founder & CEO.
 
 The official Zeltrion Solutions website: our services, training programs and brand in one place, built with a focus on clean UI/UX and a direct path for clients to get in touch.
 
-**[Visit the website](https://YOUR-WEBSITE.com)** · **[View the source code](https://github.com/YOUR_USERNAME/YOUR_WEBSITE_REPO)**
+**[Visit the website](https://YOUR-WEBSITE.com)** · **[View the source code](https://github.com/zeltrion-solutions/YOUR_WEBSITE_REPO)**
 
 </div>
 
@@ -97,8 +97,8 @@ Message us on [WhatsApp](https://wa.me/923294987012) to ask about the next batch
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=C42B36&icon_color=2E8B57&text_color=ffffff" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=C42B36&text_color=ffffff" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=zeltrion-solutions&show_icons=true&hide_border=true&bg_color=0d1117&title_color=C42B36&icon_color=2E8B57&text_color=ffffff" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeltrion-solutions&layout=compact&hide_border=true&bg_color=0d1117&title_color=C42B36&text_color=ffffff" alt="Top languages" />
 </div>
 
 ---
@@ -109,9 +109,9 @@ Message us on [WhatsApp](https://wa.me/923294987012) to ask about the next batch
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeltrion-solutions/zeltrion-solutions/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeltrion-solutions/zeltrion-solutions/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/zeltrion-solutions/zeltrion-solutions/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -131,7 +131,7 @@ We are open to client projects, collaborations and partnerships with businesses,
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=63080F&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=zeltrion-solutions&label=Profile+Views&color=63080F&style=for-the-badge" alt="Profile views" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:63080F,100:043417&height=120&section=footer" alt="footer" width="100%" />
 
