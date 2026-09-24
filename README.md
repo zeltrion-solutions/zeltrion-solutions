@@ -9,11 +9,11 @@
 
 <br/><br/>
 
-<a href="https://YOUR-WEBSITE.com"><img src="https://img.shields.io/badge/-Website-161B22?style=for-the-badge&logo=googlechrome&logoColor=C42B36" alt="Website" /></a>
-<a href="https://wa.me/923294987012"><img src="https://img.shields.io/badge/-WhatsApp-161B22?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp" /></a>
-<a href="https://instagram.com/zeltrion.solutions"><img src="https://img.shields.io/badge/-Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
-<a href="https://linkedin.com/company/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-<a href="https://facebook.com/YOUR-FACEBOOK"><img src="https://img.shields.io/badge/-Facebook-161B22?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" /></a>
+<a href="https://YOUR-WEBSITE.com"><img src="assets/buttons/website.svg" alt="Website" height="44" /></a>&nbsp;
+<a href="https://wa.me/923294987012"><img src="assets/buttons/whatsapp.svg" alt="WhatsApp" height="44" /></a>&nbsp;
+<a href="https://instagram.com/zeltrion.solutions"><img src="assets/buttons/instagram.svg" alt="Instagram" height="44" /></a>&nbsp;
+<a href="https://linkedin.com/company/YOUR-LINKEDIN"><img src="assets/buttons/linkedin.svg" alt="LinkedIn" height="44" /></a>&nbsp;
+<a href="https://facebook.com/YOUR-FACEBOOK"><img src="assets/buttons/facebook.svg" alt="Facebook" height="44" /></a>
 
 </div>
 
@@ -49,7 +49,7 @@ Founded and led by **Nimra Akbar**, Founder & CEO.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-Official_Website-161B22?style=for-the-badge&logo=googlechrome&logoColor=C42B36" alt="Official Website" />
+<img src="assets/buttons/official-website.svg" alt="Official Website" height="44" />
 
 The official Zeltrion Solutions website: our services, training programs and brand in one place, built with a focus on clean UI/UX and a direct path for clients to get in touch.
 
@@ -128,8 +128,8 @@ We are open to client projects, collaborations and partnerships with businesses,
 
 <br/>
 
-<a href="https://wa.me/923294987012"><img src="https://img.shields.io/badge/-Start_a_Conversation-161B22?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="Start a conversation on WhatsApp" /></a>
-<a href="https://linkedin.com/in/YOUR-FOUNDER-LINKEDIN"><img src="https://img.shields.io/badge/-Connect_with_the_Founder-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="Connect with the founder on LinkedIn" /></a>
+<a href="https://wa.me/923294987012"><img src="assets/buttons/start-conversation.svg" alt="Start a conversation on WhatsApp" height="48" /></a>&nbsp;
+<a href="https://linkedin.com/in/YOUR-FOUNDER-LINKEDIN"><img src="assets/buttons/connect-founder.svg" alt="Connect with the founder on LinkedIn" height="48" /></a>
 
 <br/><br/>
 
